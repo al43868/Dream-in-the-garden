@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d16d04c35641db440946ac656efe5869
+  m_SerializeEntries:
+  - m_GUID: b054c1ef8c71d574c97ee3c2e0bef9f5
+    m_Address: MainPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ad57f120d2fbfd45b1dc145db4e5b95
+    m_Address: PausePanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 174cf3901a12b394fbec9636738c2070
+    m_Address: ShopPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2ce0c972709fe04aae0209213eec581
+    m_Address: WinPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b135e8d7067c75a47a7b35aa738b6cc4
+    m_Address: LosePanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a2f716763d3d274f814b587cb0c3597, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10a302bb0dceb7d4bb705e1c01d5204d, type: 2}
+    - {fileID: 11400000, guid: b66c606d26957e84a924226440f45e86, type: 2}
